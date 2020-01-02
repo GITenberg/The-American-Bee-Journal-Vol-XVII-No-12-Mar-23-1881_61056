@@ -1,0 +1,30 @@
+_repo: The-American-Bee-Journal-Vol-XVII-No-12-Mar-23-1881_61056
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Newman, Thomas G. (Thomas Gabriel)
+    alias: Newman, Thos. G. (Thomas Gabriel)
+    birthdate: 1833
+    deathdate: 1903
+    gutenberg_agent_id: '50237'
+    url: http://www.gutenberg.org/2009/agents/50237
+description: ''
+gutenberg_issued: '2019-12-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The American Bee Journal
+
+  Vol. XVII, No. 12, Mar. 23, 1881'
+url: http://www.gutenberg.org/ebooks/61056
